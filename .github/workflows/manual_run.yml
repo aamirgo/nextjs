@@ -2,9 +2,6 @@ name: Manual Workflow
 
 on:
   workflow_dispatch:
-    branches:
-      - main
-      - aamirgo-patch-1
 
 jobs:
   build:
